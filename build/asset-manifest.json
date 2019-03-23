@@ -1,0 +1,14 @@
+{
+  "main.css": "/starwars_react/build/static/css/main.1905ed79.chunk.css",
+  "main.js": "/starwars_react/build/static/js/main.308cda78.chunk.js",
+  "main.js.map": "/starwars_react/build/static/js/main.308cda78.chunk.js.map",
+  "runtime~main.js": "/starwars_react/build/static/js/runtime~main.7a44c786.js",
+  "runtime~main.js.map": "/starwars_react/build/static/js/runtime~main.7a44c786.js.map",
+  "static/js/2.b934461c.chunk.js": "/starwars_react/build/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/starwars_react/build/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/starwars_react/build/index.html",
+  "precache-manifest.1b6eb74b37e1003cc5b0ad7ae66249fd.js": "/starwars_react/build/precache-manifest.1b6eb74b37e1003cc5b0ad7ae66249fd.js",
+  "service-worker.js": "/starwars_react/build/service-worker.js",
+  "static/css/main.1905ed79.chunk.css.map": "/starwars_react/build/static/css/main.1905ed79.chunk.css.map",
+  "static/media/logo.svg": "/starwars_react/build/static/media/logo.5d5d9eef.svg"
+}
