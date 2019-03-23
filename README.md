@@ -1,2 +1,2 @@
 ### `StarWars demo`
-[https://mariachernienko.github.io/starwars_react/]
+(https://mariachernienko.github.io/starwars_react/)

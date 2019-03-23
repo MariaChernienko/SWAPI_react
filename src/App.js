@@ -4,7 +4,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello from master branch</h1>
+        <h1>This is StarWars with API Project</h1>
+        <h2>Hello from master branch</h2>
       </div>
     );
   }
