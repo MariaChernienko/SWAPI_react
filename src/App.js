@@ -1,11 +1,16 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
+import "./App.scss";
+
+import Menu from "./components/Menu";
+import Main from "./components/Main";
+// import Menu from "./components/Menu";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <h1>This is StarWars with API Project</h1>
-        <h2>Hello from master branch</h2>
+      <div>
+        <Menu />
+        <Main />
       </div>
     );
   }
