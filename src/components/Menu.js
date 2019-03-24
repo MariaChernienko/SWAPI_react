@@ -32,11 +32,14 @@ class Menu extends Component {
           <li>
             <Link to='/'>Home</Link>
           </li>
+
           {menu.map(menuItem => (
             <li key={menuItem.id}>
               <Link to={`/${menuItem.name}`}>{menuItem.name}</Link>
             </li>
           ))}
+
+
         </ul>
       </div>
     );
