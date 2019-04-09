@@ -1,0 +1,8 @@
+.error-indicator {
+  width: 100%;
+}
+
+.error-indicator .boom {
+  font-size: 26px;
+  margin-right: 10px;
+}
